@@ -3,7 +3,7 @@
     "path":"emotes",
     "emotes":[
         {"name":"4358_wojak_ending_it",
-        "type":"png"
+        "type":".png"
         },
         {
             "name":"coomer_spin",
@@ -11,33 +11,33 @@
         },
         {
             "name":"doomer_wojak",
-            "type":"png"
+            "type":".png"
         },
         {
             "name":"dyn-simp",
-            "type":"png"},
+            "type":".png"},
         {
             "name":"npc",
-            "type":"png"
+            "type":".png"
         },
         {
             "name":"pink_wojak",
-            "type":"png"
+            "type":".png"
         },
         {
             "name":"pink_wojak_2",
-            "type":"png"
+            "type":".png"
         },
         {
             "name":"red_wojak",
-            "type":"png"},
+            "type":".png"},
         {
             "name":"scared_wojak",
-            "type":"png"
+            "type":".png"
         },
         {
             "name":"SmugWojak",
-            "type":"png"
+            "type":".png"
         },
         {
             "name":"soy1",
@@ -45,83 +45,83 @@
         },
         {
             "name":"Thumbs",
-            "type":"db"
+            "type":".db"
         },
         {
             "name":"tired_wojak",
-            "type":"png"
+            "type":".png"
         },
         {
             "name":"wojak-toodumb",
-            "type":"png"
+            "type":".png"
         },
         {
             "name":"Wojak",
-            "type":"png"
+            "type":".png"
         },
         {
             "name":"WojakBoomer",
-            "type":"png"
+            "type":".png"
         },
         {
             "name":"WojakCry",
-            "type":"png"
+            "type":".png"
         },
         {
             "name":"WojakHaha",
-            "type":"png"
+            "type":".png"
         },
         {
             "name":"wojakpunch",
-            "type":"png"
+            "type":".png"
         },
         {
             "name":"WojakZoomer",
-            "type":"png"
+            "type":".png"
         },
         {
             "name":"wojak_borntofeel",
-            "type":"png"
+            "type":".png"
         },
         {
             "name":"wojak_brain",
-            "type":"png"
+            "type":".png"
         },
         {
             "name":"wojak_chad",
-            "type":"png"
+            "type":".png"
         },
         {
             "name":"wojak_clown",
-            "type":"png"
+            "type":".png"
         },
         {
             "name":"wojak_doomer",
-            "type":"png"
+            "type":".png"
         },
         {
             "name":"wojak_gun",
-            "type":"png"
+            "type":".png"
         },
         {
             "name":"wojak_mom",
-            "type":"png"
+            "type":".png"
         },
         {
             "name":"wojak_notSeething",
-            "type":"png"
+            "type":".png"
         },
         {
             "name":"wojak_pepe_hoodie",
-            "type":"png"
+            "type":".png"
         },
         {
             "name":"wojak_sob",
-            "type":"png"
+            "type":".png"
         },
         {
             "name":"wojak_zoomer",
-            "type":"png"
+            "type":"..png"
         }
     ]
 }
